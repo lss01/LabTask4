@@ -1,0 +1,127 @@
+body{
+    background-color: #f9e5d7;
+}
+
+#logo img{
+    margin-left: 650px;
+    margin-top: -10px;
+    width: 130px;
+    
+
+}
+
+#link {
+    margin-left: 600px;
+}
+
+#link a{
+    padding: 15px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: rgb(207, 22, 22);
+    font-size: 20px;
+    font-family: 'Voltaire', sans-serif;
+}
+#link a:hover{
+    color: black;
+}
+
+#why p{
+    font-size: 30px;
+    font-family: 'Chela One', cursive;
+    text-align: center;
+}
+
+#project p{
+    font-size: 30px;
+    font-family: 'Chela One', cursive;
+    text-align: center;
+
+}
+
+#whyreason p{
+    font-size: 20px;
+    font-family: 'Voltaire', sans-serif;
+
+}
+
+#type p{
+    font-size: 20px;
+    font-family: 'Voltaire', sans-serif;
+
+}
+
+ul li{
+    font-size: 20px;
+    font-family: 'Voltaire', sans-serif;
+
+}
+
+#donate img{
+    width: 650px;
+    height: 500px;
+    padding: -5;
+    margin-left: 50px;
+}
+#now p{
+    font-size: 30px;
+    font-family: 'Chela One', cursive;
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(207, 22, 22);
+}
+
+.rounded {
+    border-radius: 1rem;
+    -webkit-border-radius: 1rem;
+    -moz-border-radius: 1rem;
+    -ms-border-radius: 1rem;
+    -o-border-radius: 1rem;
+}
+
+.nav-pills .nav-link {
+    color: #555;
+}
+
+.nav-pills .nav-link {
+    text-decoration: none;
+}
+
+.nav-item {
+    list-style-type: none;
+    display: inline;
+    padding: 10px;
+    margin-left: 280px;
+}
+
+.nav-pills .nav-link:hover {
+    color: rgb(207, 22, 22);
+}
+
+.nav-pills .nav-link{
+    display: inline;
+}
+
+input[type="radio"] {
+    margin-right: 5px;
+}
+
+.bold {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.form input{
+    width: 300px;
+    height: 30px;
+}
+
+.btn{
+    width: 100px;
+    height:40px;
+    background-color: rgb(207, 22, 22);
+    color: white;
+}
+
+
+
